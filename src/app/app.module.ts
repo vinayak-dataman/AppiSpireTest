@@ -12,7 +12,7 @@ import { StorageProvider } from '../providers/storage/storage';
 import { UserLoginService } from '../providers/userLogin.service';
 import { CognitoUtil, RegistrationUser } from '../providers/cognito.service';
 import { AwsUtil } from '../providers/aws.service';
-import { UserParametersService } from '../providers/userParameters.service';
+import { UserParametersService} from '../providers/userParameters.service';
 import { EventsService } from '../providers/events.service';
 import { UserRegistrationService } from '../providers/userRegistration.service';
 import { ConfirmregistrationPage } from '../pages/confirmregistration/confirmregistration';
